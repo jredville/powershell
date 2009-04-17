@@ -1,0 +1,1 @@
+$args | %{ get-command $_ }
